@@ -1,0 +1,325 @@
+.width100 {
+  width: 100%; }
+
+.linksNoStyle {
+  text-decoration: none; }
+
+.blackTextIBM {
+  color: black;
+  font-family: 'IBM Plex Sans', sans-serif; }
+
+.darkGreyTextIBM {
+  color: #303030;
+  font-family: 'IBM Plex Sans', sans-serif; }
+
+.blackTextLora {
+  color: black;
+  font-family: 'Lora', serif; }
+
+.menuFont {
+  font-size: 12px; }
+
+.flexCenterItem {
+  display: flex;
+  justify-content: center; }
+
+.flexColumnDisplay {
+  display: flex;
+  flex-direction: column; }
+
+.flexNav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; }
+
+.paddingImg {
+  padding: 5px; }
+
+.sectionBottomPadding {
+  padding-bottom: 55px; }
+
+.lineHeight32 {
+  line-height: 32px; }
+
+.invisible {
+  display: none; }
+
+body {
+  margin-left: 0px;
+  margin-right: 0px; }
+
+.headerBodyContainer {
+  margin-bottom: 20px; }
+  .headerBodyContainer .headerBody {
+    margin-left: 65px;
+    margin-right: 65px; }
+    .headerBodyContainer .headerBody .imgHeaderContainer {
+      padding-top: 20px; }
+    .headerBodyContainer .headerBody .responsiveMenu .toggle-menu {
+      cursor: pointer; }
+    @media (min-width: 1000px) {
+      .headerBodyContainer .headerBody .responsiveMenu {
+        display: none; } }
+    .headerBodyContainer .headerBody .navHeaderDesktop {
+      padding-top: 20px; }
+      .headerBodyContainer .headerBody .navHeaderDesktop .navItem {
+        padding: 5px; }
+      .headerBodyContainer .headerBody .navHeaderDesktop .navItemText a {
+        font-size: 13px; }
+      .headerBodyContainer .headerBody .navHeaderDesktop .navItemTextContainer {
+        width: 60%; }
+      .headerBodyContainer .headerBody .navHeaderDesktop ul {
+        display: none; }
+      .headerBodyContainer .headerBody .navHeaderDesktop .navItemShopShoppingContainer {
+        display: flex;
+        flex-direction: row; }
+    @media (max-width: 1000px) {
+      .headerBodyContainer .headerBody .navHeaderDesktop {
+        display: none; } }
+    .headerBodyContainer .headerBody .navitemSearchContainer > img {
+      height: 16px;
+      width: 15px; }
+
+.desktopStickyContainer {
+  position: -webkit-fixed;
+  position: fixed;
+  top: 0px;
+  background-color: white;
+  width: 100vw;
+  z-index: 30;
+  -webkit-animation: navMove 1s 1;
+  /* Safari 4.0 - 8.0 */
+  animation: navMove 1s 1; }
+  .desktopStickyContainer .navHeaderDesktopSticky {
+    margin-left: 65px;
+    margin-right: 65px;
+    padding-top: 5px;
+    padding-bottom: 5px; }
+    .desktopStickyContainer .navHeaderDesktopSticky .navItemTextContainer {
+      width: 700px; }
+      .desktopStickyContainer .navHeaderDesktopSticky .navItemTextContainer .navItem {
+        padding: 4px; }
+      .desktopStickyContainer .navHeaderDesktopSticky .navItemTextContainer .navItem > a {
+        font-size: 10px; }
+    .desktopStickyContainer .navHeaderDesktopSticky .navitemSearchContainer > img {
+      height: 16px;
+      width: 15px; }
+    .desktopStickyContainer .navHeaderDesktopSticky .navItemTextContainer {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between; }
+    .desktopStickyContainer .navHeaderDesktopSticky div > .navUl {
+      display: none; }
+    .desktopStickyContainer .navHeaderDesktopSticky .navItemShopShoppingContainer {
+      display: flex;
+      flex-direction: row; }
+      .desktopStickyContainer .navHeaderDesktopSticky .navItemShopShoppingContainer .navItem {
+        padding: 5px; }
+  @media (max-width: 1000px) {
+    .desktopStickyContainer .navHeaderDesktopSticky {
+      margin-left: 25px;
+      margin-right: 25px; } }
+
+@media (max-width: 760px) {
+  .desktopStickyContainer {
+    display: none; } }
+
+.responsiveStickyContainer {
+  position: -webkit-fixed;
+  position: fixed;
+  top: 0px;
+  background-color: white;
+  width: 100vw;
+  z-index: 30;
+  -webkit-animation: navMove 1s 1;
+  /* Safari 4.0 - 8.0 */
+  animation: navMove 1s 1; }
+  .responsiveStickyContainer .stickyResponsiveMenu {
+    margin-left: 65px;
+    margin-right: 65px;
+    padding-top: 5px;
+    padding-bottom: 5px; }
+    .responsiveStickyContainer .stickyResponsiveMenu .navItemTextContainer {
+      width: 700px; }
+      .responsiveStickyContainer .stickyResponsiveMenu .navItemTextContainer .navItem {
+        padding: 4px; }
+      .responsiveStickyContainer .stickyResponsiveMenu .navItemTextContainer .navItem > a {
+        font-size: 10px; }
+    .responsiveStickyContainer .stickyResponsiveMenu .navitemSearchContainer > img {
+      height: 16px;
+      width: 15px; }
+    .responsiveStickyContainer .stickyResponsiveMenu .navItemTextContainer {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between; }
+    .responsiveStickyContainer .stickyResponsiveMenu div > .navUl {
+      display: none; }
+    .responsiveStickyContainer .stickyResponsiveMenu .navItemShopShoppingContainer {
+      display: flex;
+      flex-direction: row; }
+  @media (max-width: 1000px) {
+    .responsiveStickyContainer .navHeaderDesktopSticky {
+      margin-left: 25px;
+      margin-right: 25px; } }
+
+@media (min-width: 760px) {
+  .responsiveStickyContainer {
+    display: none; } }
+
+.nextPreviousContainer {
+  position: -webkit-fixed;
+  position: fixed;
+  top: 30vh;
+  width: 100%;
+  height: 50vh;
+  z-index: 30; }
+  .nextPreviousContainer div {
+    width: 8%;
+    height: 40vh;
+    text-align: center;
+    display: flex;
+    justify-content: center; }
+    .nextPreviousContainer div a {
+      margin-top: auto;
+      margin-bottom: auto;
+      color: #303030;
+      font-family: "IBM Plex Sans", sans-serif; }
+  .nextPreviousContainer .previousContainer {
+    transform: rotate(90deg);
+    -webkit-animation: prevMove 1s 1;
+    /* Safari 4.0 - 8.0 */
+    animation: prevMove 1s 1; }
+  .nextPreviousContainer .nextContainer {
+    transform: rotate(270deg);
+    -webkit-animation: nextMove 1s 1;
+    /* Safari 4.0 - 8.0 */
+    animation: nextMove 1s 1; }
+
+@media (max-width: 760px) {
+  .nextPreviousContainer {
+    display: none; } }
+
+article.bodyArticleContainer {
+  background-color: #f8f8f8;
+  border-top-color: #eeeeee;
+  border-top-width: 1px;
+  border-top-style: solid;
+  flex-direction: row;
+  flex-wrap: wrap; }
+  article.bodyArticleContainer .bodyArticleImgs {
+    flex-direction: row;
+    flex-wrap: wrap; }
+    article.bodyArticleContainer .bodyArticleImgs img {
+      width: 90%; }
+  article.bodyArticleContainer .articlecontainer .bodyArticle {
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: -70px;
+    z-index: 10;
+    width: 90%; }
+    article.bodyArticleContainer .articlecontainer .bodyArticle section {
+      width: 60%;
+      z-index: 10;
+      background-color: #f8f8f8;
+      padding: 22px 40px 30px 40px; }
+      article.bodyArticleContainer .articlecontainer .bodyArticle section h2 {
+        font-size: 40px; }
+
+.backToArticles {
+  margin-top: 50px;
+  margin-bottom: 50px; }
+  .backToArticles a {
+    font-size: 18px; }
+
+.sectionArticleText {
+  padding-bottom: 55px;
+  line-height: 32px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 100; }
+
+.sectionArticleSubtitle {
+  padding-bottom: 55px;
+  line-height: 32px;
+  font-family: "IBM Plex Sans", sans-serif;
+  color: #303030;
+  font-size: 20px;
+  font-weight: 700; }
+
+.sectionArticleBold {
+  padding-bottom: 55px;
+  line-height: 32px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 700; }
+
+.sectionArticleQuote {
+  padding-bottom: 55px;
+  line-height: 32px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: italic;
+  color: #acacac; }
+
+.bottomArticle {
+  padding-top: 40px;
+  padding-bottom: 75px; }
+
+.authorArticle {
+  font-family: 'Lora', serif; }
+  .authorArticle div.flexCenterItem {
+    padding-bottom: 35px;
+    font-size: 18px; }
+    .authorArticle div.flexCenterItem .txt1 {
+      color: #acacac;
+      padding-right: 5px; }
+    .authorArticle div.flexCenterItem .txt2 {
+      color: #303030; }
+    .authorArticle div.flexCenterItem a {
+      padding-right: 20px; }
+
+.topArticleList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 80%; }
+  .topArticleList .flexCenterItem {
+    width: 25vw;
+    height: 20vw;
+    background-repeat: no-repeat;
+    background-size: cover; }
+  .topArticleList .topArticleList1 {
+    background-image: url("../../assets/img/index.jpeg"); }
+  .topArticleList .topArticleList2 {
+    background-image: url("../../assets/img/index2.jpeg"); }
+  .topArticleList .topArticleList3 {
+    background-image: url("../../assets/img/Carma_Photo_Product_11_Featured-x-up_800x654_LIGHT.jpg"); }
+
+@media (min-width: 1000px) {
+  .topArticleList {
+    flex-direction: row; } }
+
+@media (max-width: 1000px) {
+  .topArticleList {
+    flex-direction: column;
+    align-content: center;
+    align-items: center; } }
+
+@keyframes navMove {
+  from {
+    top: -100px; }
+  to {
+    top: 0px; } }
+
+@keyframes prevMove {
+  from {
+    top: -100px; }
+  to {
+    top: 0px; } }
+
+@keyframes nextMove {
+  from {
+    top: -100px; }
+  to {
+    top: 0px; } }

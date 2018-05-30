@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/favicon/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/favicon/favicon-16x16.png">
+		<link rel="manifest" href="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/favicon/site.webmanifest">
+		<link rel="mask-icon" href="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/favicon/safari-pinned-tab.svg" color="#000000">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="theme-color" content="#ffffff">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<title>La Relève et La Peste</title>
+		<meta name="description" content="La Relève et la Peste">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animsition/3.5.2/css/animsition.css">
+		<link rel="stylesheet" href="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/styles/style.css">
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<meta name="google-site-verification" content="UvzBwm0pUVe9pQwe82kP5sdUrBE-R8xk70rq0sxb7d4" />
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-48367506-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-48367506-1');
+		</script>
+		
+<!-- This site is optimized with the Yoast SEO plugin v7.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://lareleveetlapeste.fr/pollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute/" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Pollution des océans : Coca-Cola pollue l’équivalent d’une benne à ordure chaque minute" />
+<meta property="og:description" content="Lundi 10 avril dernier, les employés du siège européen de Coca-Cola, à Londres, ont vu l’entrée de leurs bureaux bloquée par une sculpture monumentale, déposée là par Greenpeace UK, en signe de protestation contre la politique paresseuse et opaque de la multinationale en matière de traitement du plastique. Un geste qui vise aussi plus largement &hellip;" />
+<meta property="og:url" content="https://lareleveetlapeste.fr/pollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute/" />
+<meta property="og:site_name" content="La Relève et La Peste" />
+<meta property="article:publisher" content="https://www.facebook.com/lareleveetlapeste?ref=aymt_homepage_panel" />
+<meta property="article:section" content="Blog" />
+<meta property="article:published_time" content="2018-04-29T07:02:04+00:00" />
+<meta property="article:modified_time" content="2018-04-29T13:06:39+00:00" />
+<meta property="og:updated_time" content="2018-04-29T13:06:39+00:00" />
+<meta property="og:image" content="https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-fb-2828282.jpg" />
+<meta property="og:image:secure_url" content="https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-fb-2828282.jpg" />
+<meta property="og:image:width" content="955" />
+<meta property="og:image:height" content="500" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Lundi 10 avril dernier, les employés du siège européen de Coca-Cola, à Londres, ont vu l’entrée de leurs bureaux bloquée par une sculpture monumentale, déposée là par Greenpeace UK, en signe de protestation contre la politique paresseuse et opaque de la multinationale en matière de traitement du plastique. Un geste qui vise aussi plus largement [&hellip;]" />
+<meta name="twitter:title" content="Pollution des océans : Coca-Cola pollue l’équivalent d’une benne à ordure chaque minute" />
+<meta name="twitter:image" content="https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-fb-2828282.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="La Relève et La Peste &raquo; Pollution des océans : Coca-Cola pollue l’équivalent d’une benne à ordure chaque minute Flux des commentaires" href="https://lareleveetlapeste.fr/pollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lareleveetlapeste.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-core-blocks-css'  href='https://lareleveetlapeste.fr/wp-content/plugins/gutenberg/build/core-blocks/style.css?ver=1527534046' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://lareleveetlapeste.fr/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://lareleveetlapeste.fr/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.4.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://lareleveetlapeste.fr/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.4.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wpemfb-lightbox-css'  href='https://lareleveetlapeste.fr/wp-content/plugins/wp-embed-facebook/lib/lightbox2/css/lightbox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-subscription-css'  href='https://lareleveetlapeste.fr/wp-content/plugins/newsletter/style.css?ver=5.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://lareleveetlapeste.fr/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.14' type='text/css' media='all' />
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-content/plugins/wp-embed-facebook/lib/lightbox2/js/lightbox.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WEF = {"local":"fr_FR","version":"v2.8","fb_id":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-content/plugins/wp-embed-facebook/lib/js/fb.min.js?ver=1.1'></script>
+<link rel='https://api.w.org/' href='https://lareleveetlapeste.fr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lareleveetlapeste.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://lareleveetlapeste.fr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<meta name="generator" content="WooCommerce 3.4.0" />
+<link rel='shortlink' href='https://lareleveetlapeste.fr/?p=14102' />
+<link rel="alternate" type="application/json+oembed" href="https://lareleveetlapeste.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flareleveetlapeste.fr%2Fpollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lareleveetlapeste.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flareleveetlapeste.fr%2Fpollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute%2F&#038;format=xml" />
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Partager",
+	Save: "Enregistrer",
+	Subscribe: "S'abonner",
+	Email: "Email",
+	Bookmark: "Signet",
+	ShowAll: "Montrer tout",
+	ShowLess: "Montrer moins",
+	FindServices: "Trouver des service(s)",
+	FindAnyServiceToAddTo: "Trouver instantan&eacute;ment des services &agrave; ajouter &agrave;",
+	PoweredBy: "Propuls&eacute; par",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Ajouter un signet dans votre fureteur",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Ajouter &agrave; vos favoris",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;"
+};
+
+a2a_config.onclick=1;
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<!-- Start Fluid Video Embeds Style Tag -->
+<style type="text/css">
+/* Fluid Video Embeds */
+.fve-video-wrapper {
+    position: relative;
+    overflow: hidden;
+    height: 0;
+    background-color: transparent;
+    padding-bottom: 56.25%;
+    margin: 0.5em 0;
+}
+.fve-video-wrapper iframe,
+.fve-video-wrapper object,
+.fve-video-wrapper embed {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.fve-video-wrapper a.hyperlink-image {
+    position: relative;
+    display: none;
+}
+.fve-video-wrapper a.hyperlink-image img {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+}
+.fve-video-wrapper a.hyperlink-image .fve-play-button {
+    position: absolute;
+    left: 35%;
+    top: 35%;
+    right: 35%;
+    bottom: 35%;
+    z-index: 3;
+    background-color: rgba(40, 40, 40, 0.75);
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+.fve-video-wrapper a.hyperlink-image:hover .fve-play-button {
+    background-color: rgba(0, 0, 0, 0.85);
+}
+</style>
+<!-- End Fluid Video Embeds Style Tag -->
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+		</head>
+
+	<body>
+		<header>
+						<div class="layout">
+								<div class="display-block position-relative width-100 height-50px">
+					<div class="fixed-nav js-fixed-nav bg-white">
+						<div class="fixed-page-progress bg-black">
+						</div>
+						<div class="wrapper position-relative">
+							<nav class="flexalign-vcenter-hcenter height-50px breakpoint-l--displaynone menu-desktop">
+								<div class="menu-menu-main-container"><ul id="menu-menu-main" class="menu"><li id="menu-item-27506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-27506"><a href="https://lareleveetlapeste.fr/">La Relève</a></li>
+<li id="menu-item-27497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27497"><a href="https://lareleveetlapeste.fr/nos-articles/">Articles</a></li>
+<li id="menu-item-27498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27498"><a href="https://lareleveetlapeste.fr/enquetes/">Enquêtes</a></li>
+<li id="menu-item-27499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27499"><a href="https://lareleveetlapeste.fr/interviews/">Interviews</a></li>
+<li id="menu-item-27500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27500"><a href="https://lareleveetlapeste.fr/livre-journal-2/">Revues</a>
+<ul class="sub-menu">
+	<li id="menu-item-27501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27501"><a href="https://lareleveetlapeste.fr/livre-journal-numero-1/">Livre-Journal 1</a></li>
+	<li id="menu-item-27502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27502"><a href="https://lareleveetlapeste.fr/livre-journal-2/">Livre-Journal 2</a></li>
+	<li id="menu-item-27503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27503"><a href="https://lareleveetlapeste.fr/manifeste-numero-1/">Manifeste 1</a></li>
+	<li id="menu-item-27504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27504"><a href="https://lareleveetlapeste.fr/manisfeste-numero-2/">Manisfeste 2</a></li>
+</ul>
+</li>
+</ul></div>								<div class="display-inlineblock position-relative">
+									<img class="position-relative display-block icon-s modal-trigger" data-target="modal-search" src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/search.svg" alt="search">
+								</div>
+								<div class="display-inlineblock position-relative flexalign--right">
+									<div class="display-inlineblock position-relative marginright-xl">
+										<a class="animsition-link" href="https://lareleveetlapeste.fr/boutique/">
+											<div class="button button--m bg-black c-white font--m fontsize-xs">Boutique</div>
+										</a>
+									</div>
+									<div class="display-inlineblock position-relative marginright-xl">
+																					<a href="https://lareleveetlapeste.fr/panier/" class="link link-black link-disabled font--m fontsize-xs">Panier</a>
+																			</div>
+								</div>
+							</nav>
+							<nav class="height-50px display-none breakpoint-l--flexalign-vcenter-hcenter position-relative">
+								<div class="display-inlineblock position-relative">
+									<span class="link c-black font--m fontsize-s modal-trigger" data-target="modal-menu">Menu</span>
+								</div>
+								<div class="display-inlineblock position-absolute absolute-logo-header">
+									<a href="/" class="link c-black font--m fontsize-s">La Relève</a>
+								</div>
+								<div class="display-inlineblock position-relative marginright-l flexalign--right">
+									<img class="position-relative display-block icon-m modal-trigger" data-target="modal-search" src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/icon/search.svg" alt="search">
+								</div>
+								<div class="display-inlineblock position-relative">
+									<a class="animsition-link" href="https://lareleveetlapeste.fr/boutique/">
+										<img class="position-relative display-block icon-m" src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/icon/cart.svg" alt="cart">
+									</a>
+								</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+							</div>
+		</header><div class="animsition">
+	<div class="main" id="main">
+		<div class="app">
+			<div class="layout">
+				<div class="display-none">
+									</div>
+				<section class="marginbottom-xl margintop-xxl breakpoint-m--margintop-l breakpoint-m--marginbottom-l">
+					<div class="display-block position-relative width-100">
+						<div class="wrapper--s">
+							<h1 class="display-block position-relative font--m c-black fontsize-xxxl breakpoint-l--fontsize-xl lineheight-1 width-100 textalign-center marginbottom-l breakpoint-m--marginbottom-m letterspacing-title">Pollution des océans : Coca-Cola pollue l’équivalent d’une benne à ordure chaque minute</h1>
+							<span class="display-block position-relative font--r fontsize-m c-grey--d breakpoint-l--fontsize--article lineheight-1_22 width-100 textalign-center">Lundi 10 avril dernier, les employés du siège européen de Coca-Cola, à Londres, ont vu l’entrée de leurs bureaux bloquée par une sculpture monumentale, déposée là par Greenpeace UK, en signe de protestation contre la politique paresseuse et opaque de la multinationale en matière de traitement du plastique. Un geste qui vise aussi plus largement [&hellip;]</span>
+						</div>
+					</div>
+				</section>
+				<section>
+					<div class="display-block position-relative width-100">
+						<div class="wrapper breakpoint-l--wrapper--xl">
+							<div class="marginbottom-xl breakpoint-m--marginbottom-m">
+								<img src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-src="https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-couv-site-11118-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" data-lazy-srcset="https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-couv-site-11118-2.jpg 1500w, https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-couv-site-11118-2-300x200.jpg 300w, https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-couv-site-11118-2-768x512.jpg 768w, https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-couv-site-11118-2-1024x683.jpg 1024w, https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-couv-site-11118-2-510x340.jpg 510w" data-lazy-sizes="(max-width: 1500px) 100vw, 1500px" /><noscript><img src="https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-couv-site-11118-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-couv-site-11118-2.jpg 1500w, https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-couv-site-11118-2-300x200.jpg 300w, https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-couv-site-11118-2-768x512.jpg 768w, https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-couv-site-11118-2-1024x683.jpg 1024w, https://lareleveetlapeste.fr/wp-content/uploads/2017/04/image-couv-site-11118-2-510x340.jpg 510w" sizes="(max-width: 1500px) 100vw, 1500px" /></noscript>							</div>
+							<div class="marginbottom-xl breakpoint-m--marginbottom-m">
+								<span class="display-block position-relative font--l letterspacing-m c-black fontsize-xs breakpoint-m--fontsize-xxs lineheight-1 width-100 textalign-center">
+									29 avril 2018 - La Relève et La Peste								</span>
+								<div class="display-block width-100 article-share center">
+									<div class="a2a_kit a2a_kit_size_14 addtoany_list" data-a2a-url="https://lareleveetlapeste.fr/pollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute/" data-a2a-title="Pollution des océans : Coca-Cola pollue l’équivalent d’une benne à ordure chaque minute"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Flareleveetlapeste.fr%2Fpollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute%2F&amp;linkname=Pollution%20des%20oc%C3%A9ans%20%3A%20Coca-Cola%20pollue%20l%E2%80%99%C3%A9quivalent%20d%E2%80%99une%20benne%20%C3%A0%20ordure%20chaque%20minute" title="Facebook" rel="nofollow noopener" target="_blank"><img src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/icon/facebook.svg" height="14" alt="Facebook"/></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Flareleveetlapeste.fr%2Fpollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute%2F&amp;linkname=Pollution%20des%20oc%C3%A9ans%20%3A%20Coca-Cola%20pollue%20l%E2%80%99%C3%A9quivalent%20d%E2%80%99une%20benne%20%C3%A0%20ordure%20chaque%20minute" title="Twitter" rel="nofollow noopener" target="_blank"><img src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/icon/twitter.svg" height="14" alt="Twitter"/></a></div>								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<div class="wrapper">
+					<div class="marginbottom-l position-relative display-block width-100 borderwidth-0 borderbottomwidth-1 borderstyle-solid bordercolor-grey--d breakpoint-m--margingreset">
+					</div>
+				</div>
+				<div class="article-content">
+					<div class="js-article-side-breakpoint wrapper"></div>
+					
+					<div id="fb-root"></div>
+<p class='bold-1'>Lundi 10 avril dernier, les employés du siège européen de Coca-Cola, à Londres, ont vu l’entrée de leurs bureaux bloquée par une sculpture monumentale, déposée là par Greenpeace UK, en signe de protestation contre la politique paresseuse et opaque de la multinationale en matière de traitement du plastique. Un geste qui vise aussi plus largement à informer l’opinion publique de l’urgence écologique que représente la pollution plastique des océans.</p>
+<p class='bold-1'>Un argument de poids</p>
+<p>« Coca-Cola cache l’étendue de son empreinte plastique et refuse de prendre des mesures significatives pour empêcher la pollution de nos océans par ses produits » : c’est sur ce préambule que débute un rapport publié par Greenpeace la semaine dernière, accompagné d’une action d’éclat sur le parvis du siège social de la société, à Londres : le message est assené de tout le poids (2,5 tonnes) d’une statue de l’artiste Jason deCaires Taylor, qui représente une famille de vacanciers sur une plage, indifférente aux oiseaux marins régurgitant avec peine du plastique à leurs pieds.</p>
+<img src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-src="https://lareleveetlapeste.fr/wp-content/uploads/2017/04/Carma_Photo_Product_11_Featured-x-up_800x654_LIGHT.jpg" alt=""/><noscript><img src="https://lareleveetlapeste.fr/wp-content/uploads/2017/04/Carma_Photo_Product_11_Featured-x-up_800x654_LIGHT.jpg" alt=""/></noscript>
+<p class='bold-1'>L’empreinte coupable de Coca-Cola</p>
+<p>Dans son rapport, Greenpeace mélange les données publiées par Coca-Cola et des estimations de son cru pour les compléter. L’organisme rappelle que Coca-Cola vend plus 1,9 milliards de doses de soda par jour à travers le monde, ce qui élève sa production annuelle de bouteilles en plastique à environ 110 milliards de bouteilles. Comme l’a d’ailleurs reconnu la multinationale en 2010 dans son rapport écologique, ces produits « <i>font partie des déchets que l’on peut trouver répandus à tort sur les littoraux à travers le monde</i> » ; une masse de plastique qui pollue massivement les océans au rythme de l’équivalent d’une benne à ordure par minute.</p>
+<p>Ces déchets ne sont pas seulement une gêne esthétique pour les amateurs de <i>farniente</i> l’été. Les plus gros morceaux sont ingérés par les requins ou les oiseaux marins, qui, incapables de les digérer, les régurgitent – s’ils n’en meurent pas avant – sous forme de microplastiques qui vont ensuite mettre en danger toute la chaîne alimentaire océane.</p>
+<p class='quote'>« Coca-Cola cache l’étendue de son empreinte plastique et refuse de prendre des mesures significatives pour empêcher la pollution de nos océans par ses produits »</p>
+<p>S’ajoute à cette pollution des océans la pollution associée à la fabrication des bouteilles neuves, issue d’hydrocarbures polluants. En effet, le rapport montre que Coca-Cola est loin d’avoir atteint son objectif de 2015 de 25% des bouteilles fabriquées à partir de plastique recyclé (rPET), avec à peine 7% de ses produits emballés dans un tel matériau. La multinationale, ajoute le rapport, a même reconnu que cet objectif était devenu un « <i>challenge</i> » avec la diminution récente du coût du pétrole, matière première du plastique vierge. Pourtant, le plastique utilisé pour ces bouteilles est tout à fait recyclable et certains acteurs du secteur, comme PepsiCo sur la ligne 7Up, ont d’ores et déjà atteint le 100 % recyclé.</p>
+<p class='bold-1'>Trop de bouteilles à usage unique</p>
+</p>
+<p>Il apparaît que le cœur du problème n’est pas le matériau des bouteilles, mais bien l’usage qu’il en est fait. Là où Coca-Cola fait beaucoup d’effort pour réduire la quantité de plastique utilisée pour fabriquer une bouteille, Greenpeace appelle à un passage massif au packaging réutilisable.</p>
+<p><p class='bold-2'>Le principe est simple : au lieu de recycler une bouteille après une seule utilisation, l’entreprise peut encourager les consommateurs à rapporter la bouteille vide sur le point d’achat, où elle est récupérée contre une petite caution, nettoyée, remplie à nouveau et renvoyée sur les étalages du magasin. Ironie du sort, Coca-Cola était un pionner de ce système avec sa mythique bouteille de verre au début du siècle, avec un taux de réutilisation proche de 96% à la fin des années 1940.</p>
+<p>Aujourd’hui, le constat n’est plus le même : depuis plusieurs années, la proportion de contenants réutilisables dans les ventes de Coca-Cola ne fait que diminuer ; de plus d’un tiers (33%) en 2008, celle-ci est passée à moins d’un quart (25%) en 2015. Pourtant, les systèmes de collecte efficaces sont aujourd’hui largement répandus, notamment en Allemagne, en Suède et au Danemark. Dans un tel système, une bouteille de verre peut être réutilisée 50 fois avant d’être recyclée, 15 fois pour une bouteille de plastique.</p>
+<img class="big-img" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-src="https://lareleveetlapeste.fr/wp-content/uploads/2017/04/soft-drinks-bottles-pollution.jpg" alt="soft-drinks-bottles-pollution"/><noscript><img class="big-img" src="https://lareleveetlapeste.fr/wp-content/uploads/2017/04/soft-drinks-bottles-pollution.jpg" alt="soft-drinks-bottles-pollution"/></noscript>
+<p class='bold-1'>Résultats opaques et lobbying</p>
+<p>Au lieu d’adhérer à ces modèles écologiques, Coca-Cola s’y oppose en secret, refuse de publier des statistiques précises sur son empreinte plastique et se cache derrière de nombreux efforts de « greenwashing ».</p>
+<p>Dans ses pages illustrées d’oiseaux agonisants, le rapport accuse : « des courriels internes divulgués au printemps 2016 révèlent l’intention de Coca-Cola de résister à certains éléments du programme européen sur l’économie circulaire ». Ces données interceptées par Greenpeace indiquent les efforts déployés par la multinationale pour combattre la mise en place de système de collecte, en faisant une des cibles principales des 900 000€ qu’elle investit annuellement en lobbying au niveau européen.</p>
+<p>Le plus effarant de cette affaire reste peut-être l’absurdité d’une telle démarche : certes, la mise en place généralisée de systèmes de collecte demanderait une adaptation de la part de Coca-Cola (et donc des coûts), mais le rapport de Greenpeace souligne qu’une telle adaptation s’est déjà faite avec succès dans plusieurs pays, sans menacer la santé de l’entreprise. Au lieu de tendre vers une solution logique et responsable, Coca-Cola se cache derrière un marketing « vert » bruyant et peu efficace, comme l’initiative « <i>Keep America Beautiful</i> », une organisation qui insiste sur le rôle du consommateur dans la pollution en éclipsant celui du fabricant.</p>
+<p class='bold-1'>En tant qu’acteur majeur du secteur, Coca-Cola devrait prendre la tête de la transformation écologique des modes de consommation, en favorisant un double mouvement : le passage au 100 % recyclé dans les matériaux d’emballage, mais aussi, plus important encore, la sensibilisation du public à la réutilisation et à la réduction maximale des emballages – car une bouteille, qu’elle soit en plastique recyclé, réutilisé ou bioplastique, reste une menace pour la vie des océans.</p>
+<p class='bold-1'><b>Sources : </b><a href="http://www.consoglobe.com/dechets-plastiques-de-coca-cola-le-bilan-environnemental-est-lourd-cg">Consobglobe</a><b> / </b><a href="http://www.greenpeace.org.uk/sites/files/gpuk/the-case-against-coca-cola.pdf">Greenpeace</a></p>
+<a href="https://lareleveetlapeste.fr/produit/livre-journal-numero-2/"><img class="big-img alignnone" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-src="https://lareleveetlapeste.fr/wp-content/uploads/2017/11/image-15672.jpg" alt="image 15672" width="3149" height="2519" /><noscript><img class="big-img alignnone" src="https://lareleveetlapeste.fr/wp-content/uploads/2017/11/image-15672.jpg" alt="image 15672" width="3149" height="2519" /></noscript></a>
+<p class="bold-1" style="text-align: center;">Pour commander notre nouveau Livre-Journal, cliquez sur l&rsquo;image !</p>
+
+					<div class="wrapper-text">
+						<div class="marginbottom-xl margintop-xxl breakpoint-m--marginbottom-m breakpoint-m--margintop-xl">
+							<span class="display-block position-relative font--l letterspacing-m c-black fontsize-xs breakpoint-m--fontsize-xxs lineheight-1 width-100 textalign-center">
+								29 avril 2018 - La Relève et La Peste							</span>
+							<div class="display-block width-100 article-share center">
+								<div class="a2a_kit a2a_kit_size_14 addtoany_list" data-a2a-url="https://lareleveetlapeste.fr/pollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute/" data-a2a-title="Pollution des océans : Coca-Cola pollue l’équivalent d’une benne à ordure chaque minute"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Flareleveetlapeste.fr%2Fpollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute%2F&amp;linkname=Pollution%20des%20oc%C3%A9ans%20%3A%20Coca-Cola%20pollue%20l%E2%80%99%C3%A9quivalent%20d%E2%80%99une%20benne%20%C3%A0%20ordure%20chaque%20minute" title="Facebook" rel="nofollow noopener" target="_blank"><img src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/icon/facebook.svg" height="14" alt="Facebook"/></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Flareleveetlapeste.fr%2Fpollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute%2F&amp;linkname=Pollution%20des%20oc%C3%A9ans%20%3A%20Coca-Cola%20pollue%20l%E2%80%99%C3%A9quivalent%20d%E2%80%99une%20benne%20%C3%A0%20ordure%20chaque%20minute" title="Twitter" rel="nofollow noopener" target="_blank"><img src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/icon/twitter.svg" height="14" alt="Twitter"/></a></div>							</div>
+						</div>
+					</div>
+					<div class="wrapper position-relative article-side">
+						<div class="article-side-share js-article-side-share">
+							<span class="display-block width-100 font--m fontsize-s lineheight-xs marginbottom-m">Pollution des océans : Coca-Cola pollue l’équivalent d’une benne à ordure chaque minute</span>
+							<div class="display-block width-100 article-share">
+								<div class="a2a_kit a2a_kit_size_14 addtoany_list" data-a2a-url="https://lareleveetlapeste.fr/pollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute/" data-a2a-title="Pollution des océans : Coca-Cola pollue l’équivalent d’une benne à ordure chaque minute"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Flareleveetlapeste.fr%2Fpollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute%2F&amp;linkname=Pollution%20des%20oc%C3%A9ans%20%3A%20Coca-Cola%20pollue%20l%E2%80%99%C3%A9quivalent%20d%E2%80%99une%20benne%20%C3%A0%20ordure%20chaque%20minute" title="Facebook" rel="nofollow noopener" target="_blank"><img src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/icon/facebook.svg" height="14" alt="Facebook"/></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Flareleveetlapeste.fr%2Fpollution-oceans-coca-cola-pollue-lequivalent-dune-benne-a-ordure-minute%2F&amp;linkname=Pollution%20des%20oc%C3%A9ans%20%3A%20Coca-Cola%20pollue%20l%E2%80%99%C3%A9quivalent%20d%E2%80%99une%20benne%20%C3%A0%20ordure%20chaque%20minute" title="Twitter" rel="nofollow noopener" target="_blank"><img src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/icon/twitter.svg" height="14" alt="Twitter"/></a></div>							</div>
+						</div>
+					</div>
+
+					<div class="js-article-side-breakpoint-bottom wrapper"></div>
+				</div>
+
+				 
+				<div class="translated-line">
+					<div class="marginbottom-xxl position-relative display-block width-100 borderwidth-0 borderbottomwidth-1 borderstyle-solid bordercolor-grey--d breakpoint-m--marginbottom-xl breakpoint-m--margintop-xl">
+					</div>
+				</div>
+				<section class="margintop-xxl marginbottom-xxl">
+					<div class="wrapper--s">
+						<div class="grid grid--xl grid--1 breakpoint-m-grid--2">
+							<div>
+								<div class="width-100">
+									<div class="img-load" data-large="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/dev/bottom-article-book--xxl.jpg">
+										<img src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/dev/bottom-article-book--small.jpg" class="img-small has-zoom">
+										<div style="padding-bottom: 145%;"></div>
+									</div>
+								</div>
+							</div>
+							<div>
+								<div class="width-100 height-100 flex-alignitems--end">
+									<div class="position-relative">
+										<span class="display-block fontsize-l display-block marginbottom-l font--sb">Graine - Numéro 2</span>
+										<span class="display-block fontsize--article lineheight-1_54 marginbottom-l">Tous les auteurs de « Graine » sont des acteurs du changement. De Pierre Rabhi à Hubert Reeves, ou encore Joël de Rosnay et Stéphanie Gibaud, ils nous font part de leurs expériences hors normes et de leurs visions de la société. Vous serez séduits par la qualité de rédaction de chacun, qui reste accessible à tous.</span>
+																				<a class="animsition-link" href="https://lareleveetlapeste.fr/produit/livre-journal-numero-2/">
+											<div class="button button--l bg-black c-white font--m fontsize-s">Commander</div>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<div class="wrapper">
+					<div class="marginbottom-xxl margintop-xxl position-relative display-block width-100 borderwidth-0 borderbottomwidth-1 borderstyle-solid bordercolor-grey--d breakpoint-m--marginbottom-xl breakpoint-m--margintop-xl">
+					</div>
+				</div>
+				
+				<section class="marginbottom-xxl breakpoint-m--marginbottom-xl" id="newsletter">    
+    <div class="wrapper--xs">
+        <span class="display-block position-relative width-100 textalign-center c-black font--m fontsize-m lineheight-1 marginbottom-m">Envie de s’informer ?</span>
+        <span class="display-block position-relative width-100 textalign-center c-black font--l fontsize-m lineheight-s marginbottom-l">Inscrivez-vous à notre newsletter pour vous informer différemment</span>
+        <div class="display-block position-relative width-100 textalign-center">
+            <form id="newsletterform">
+                <div class="grid grid--l grid--1 breakpoint-m-grid--2">
+                    <div>
+                        <div class="newsletter-input">
+                            <input class="font--m c-black" type="text" name="nn" value=""  placeholder="Votre Prénom" required>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="newsletter-input">
+                            <input class="font--m c-black has-button" name="ne" type="text" placeholder="Votre Email" required>
+                            <div class="newsletter-input-btn" onclick="submitNewsletter()">
+                                <img src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/icon/arrow-right.png">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>				
+                <div class="translated-text width-100 textalign-center">
+					<span class="font--m c-black fontsize-xxxl breakpoint-l--fontsize-xl breakpoint-m--fontsize-l lineheight-1 texttransform-uppercase letterspacing-xxl">Derniers articles</span>
+				</div>
+				<section class="margintop-xxl marginbottom-xxl">
+					<div class="wrapper--s">
+						<div class="grid grid--xl grid--1 breakpoint-m-grid--2 top-articles">
+																														<div>
+									<div class="article-thumbnail width-100 display-block position-relative">
+                                        <a href="https://lareleveetlapeste.fr/la-genetique-met-fin-au-concept-de-race-humaine/" class="animsition-link">
+										    <img src="https://lareleveetlapeste.fr/wp-content/uploads/2018/05/image-couv-site-982.jpg">
+                                        </a>
+									</div>
+									<div class="width-100 display-block position-relative article-preview paddingtop-l">
+                                        <a href="https://lareleveetlapeste.fr/la-genetique-met-fin-au-concept-de-race-humaine/" class="animsition-link">
+                                            <span class="article-preview-title">La génétique met fin au concept de race humaine</span>
+                                            <span class="article-preview-date">29 Mai 2018</span>
+                                        </a>
+									</div>
+								</div>
+																							<div>
+									<div class="article-thumbnail width-100 display-block position-relative">
+                                        <a href="https://lareleveetlapeste.fr/massacre-de-dauphins-aux-iles-feroe-couvert-de-derogation-culturelle/" class="animsition-link">
+										    <img src="https://lareleveetlapeste.fr/wp-content/uploads/2018/05/image-couv-site-8222-3.jpg">
+                                        </a>
+									</div>
+									<div class="width-100 display-block position-relative article-preview paddingtop-l">
+                                        <a href="https://lareleveetlapeste.fr/massacre-de-dauphins-aux-iles-feroe-couvert-de-derogation-culturelle/" class="animsition-link">
+                                            <span class="article-preview-title">Massacre de dauphins aux îles Féroé sous couvert de « dérogation culturelle »</span>
+                                            <span class="article-preview-date">25 Mai 2018</span>
+                                        </a>
+									</div>
+								</div>
+													</div>
+					</div>
+				</section>
+				<div class="marginbottom-xxl margintop-xxl position-relative display-block width-100 borderwidth-0 borderbottomwidth-1 borderstyle-solid bordercolor-grey--d breakpoint-m--marginbottom-xl breakpoint-m--margintop-xl">
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Voir le panier","cart_url":"https:\/\/lareleveetlapeste.fr\/panier\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.4.0'></script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_0eb7bc9c581f9e3e1a7a684a0827d718","fragment_name":"wc_fragments_0eb7bc9c581f9e3e1a7a684a0827d718"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.4.0'></script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-content/plugins/wp-embed-facebook/lib/js/wpembedfb.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = "https:\/\/lareleveetlapeste.fr\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/js/loadpost.js?ver=2.2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var newsletter = {"messages":[],"profile_max":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-content/plugins/newsletter/subscription/validate.js?ver=5.4.5'></script>
+<script type='text/javascript' src='https://lareleveetlapeste.fr/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+<script>(function(w, d){
+	var b = d.getElementsByTagName("body")[0];
+	var s = d.createElement("script"); s.async = true;
+	var v = !("IntersectionObserver" in w) ? "8.5.2" : "10.3.5";
+	s.src = "https://lareleveetlapeste.fr/wp-content/plugins/rocket-lazy-load/assets/js/lazyload-" + v + ".min.js";
+	w.lazyLoadOptions = {
+		elements_selector: "img, iframe",
+		data_src: "lazy-src",
+		data_srcset: "lazy-srcset",
+		skip_invisible: false,
+		class_loading: "lazyloading",
+		class_loaded: "lazyloaded",
+		threshold: 300,
+		callback_load: function(element) {
+			if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+				if (element.classList.contains("lazyloaded") ) {
+					if (typeof window.jQuery != "undefined") {
+						if (jQuery.fn.fitVids) {
+							jQuery(element).parent().fitVids();
+						}
+					}
+				}
+			}
+		}
+	};
+	b.appendChild(s);
+}(window, document));
+
+// Listen to the Initialized event
+window.addEventListener('LazyLoad::Initialized', function (e) {
+    // Get the instance and puts it in the lazyLoadInstance variable
+	var lazyLoadInstance = e.detail.instance;
+
+	var observer = new MutationObserver(function(mutations) {
+		mutations.forEach(function(mutation) {
+			lazyLoadInstance.update();
+		} );
+	} );
+	
+	var b      = document.getElementsByTagName("body")[0];
+	var config = { childList: true, subtree: true };
+	
+	observer.observe(b, config);
+}, false);
+</script>		<footer>
+			<div class="wrapper">
+				<div class="grid grid--1 grid--l breakpoint-m-grid--2">
+					<div>
+						<div class="flex-direction--row breakpoint-l--flex-direction--column">
+							<div class="display-inlineblock paddingright-xxxl flexforce-30 breakpoint-l--flexforce-100 breakpoint-l--marginbottom-xs">
+								<span class="font--m fontsize-s c-black">À propos</span>
+							</div>
+							<div class="display-inlineblock flexforce-70 breakpoint-l--flexforce-100">
+								<span class="font--r fontsize-s c-black lineheight-1_4">Nous sommes une maison d'édition et un média 100% indépendants qui s'autofinancent en totale autonomie. Notre portée est humaniste, écologiste et surtout antiraciste.<br/><br/>Nous nous finaçons grâce à la vente de nos livres.<br/>Notre politique est simple: 0 pub, 0 investisseur et 0 prêt bancaire pour une information 100% citoyenne.</span>
+							</div>
+						</div>
+					</div>
+					<div>
+						<div class="display-block width-100 marginbottom-xl">
+							<span class="font--m fontsize-s c-black">La Relève et La Peste</span>
+						</div>
+						<div class="display-block width-100 marginbottom-xl">
+							<span class="display-block font--m fontsize-s c-black">Nous écrire</span>
+							<a href="mailto:lareleveetlapeste@gmail.com" class="link font--l fontsize-s c-black link link-black link--underline">lareleveetlapeste@gmail.com</a>
+						</div>
+						<div class="display-block width-100 marginbottom-l">
+							<div class="flex-direction--row">
+								<span class="display-inlineblock font--m fontsize-s c-black marginright-m">Nous suivre</span>
+								<a href="https://www.facebook.com/lareleveetlapeste/" class="display-inlineblock link font--l fontsize-s c-black link link-black link--underline marginright-m">facebook</a>
+								<a href="https://www.instagram.com/la_releve_et_la_peste/" class="display-inlineblock link font--l fontsize-s c-black link link-black link--underline marginright-m">instagram</a>
+								<a href="https://twitter.com/LaReleveLaPeste" class="display-inlineblock link font--l fontsize-s c-black link link-black link--underline marginright-m">twitter</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="margintop-xxl position-relative display-block width-100 borderwidth-0 borderbottomwidth-1 borderstyle-solid bordercolor-grey--d breakpoint-l--margintop-m">
+			</div>
+			<div class="display-block position-relative width-100 height-100px">
+				<div class="bg-white">
+					<div class="wrapper position-relative">
+						<nav class="flexalign-vcenter-hcenter height-100px menu-desktop">
+							<div class="menu-menu-footer-container"><ul id="menu-menu-footer" class="menu"><li id="menu-item-27507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-27507"><a href="https://lareleveetlapeste.fr/">Accueil</a></li>
+<li id="menu-item-27508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27508"><a href="https://lareleveetlapeste.fr/nos-articles/">Articles</a></li>
+<li id="menu-item-27509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27509"><a href="https://lareleveetlapeste.fr/enquetes/">Enquêtes</a></li>
+<li id="menu-item-27510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27510"><a href="https://lareleveetlapeste.fr/interviews/">Interviews</a></li>
+<li id="menu-item-15765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15765"><a href="https://lareleveetlapeste.fr/boutique/">Boutique</a></li>
+</ul></div>							<div class="display-inlineblock position-relative flexalign--right breakpoint-m--flexalign--right--reset breakpoint-m--textalign-center">
+								<div class="display-inlineblock position-relative marginright-xl breakpoint-m--displayblock">
+									<a href="https://lareleveetlapeste.fr/mentions-legales/" class="animsition-link link link-black font--m fontsize-xs marginright-xs lineheight-m">Mentions légales - CGV</a>
+								</div>
+								<div class="display-inlineblock position-relative marginright-xl breakpoint-m--displayblock">
+									<a href="#" class="link link-black font--m fontsize-xs lineheight-m">Réalisé par Pykto Web Agency</a>
+								</div>
+							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+		<div class="scroll-top js-scroll-top">
+			<span class="font--r c-grey--d fontsize-m lineheight-1 display-block">^</span>
+		</div>
+
+		<div class="modal-overlay modal-dark" data-modal="modal-menu">
+		    <div class="modal-container textalign-left">
+		        <div class="display-table width-100 height-100">
+		            <div class="modal-close-icon modal-close">
+		                <img src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/icon/close-white.svg">
+		            </div>
+		            <div class="display-tablecell verticalalign-top padding-xl">
+		                <div class="modal mobile-menu">
+							<div class="menu-menu-main-container"><ul id="menu-menu-main-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-27506"><a href="https://lareleveetlapeste.fr/">La Relève</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27497"><a href="https://lareleveetlapeste.fr/nos-articles/">Articles</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27498"><a href="https://lareleveetlapeste.fr/enquetes/">Enquêtes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27499"><a href="https://lareleveetlapeste.fr/interviews/">Interviews</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27500"><a href="https://lareleveetlapeste.fr/livre-journal-2/">Revues</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27501"><a href="https://lareleveetlapeste.fr/livre-journal-numero-1/">Livre-Journal 1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27502"><a href="https://lareleveetlapeste.fr/livre-journal-2/">Livre-Journal 2</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27503"><a href="https://lareleveetlapeste.fr/manifeste-numero-1/">Manifeste 1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27504"><a href="https://lareleveetlapeste.fr/manisfeste-numero-2/">Manisfeste 2</a></li>
+</ul>
+</li>
+</ul></div>							<div class="display-block position-relative margintop-xl">
+								<div class="display-inlineblock position-relative">
+									<a class="animsition-link" href="https://lareleveetlapeste.fr/boutique/">
+										<div class="button button--l bg-black c-white font--m fontsize-m">Boutique</div>
+									</a>
+								</div>
+							</div>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+		<div class="modal-overlay" data-modal="modal-search">
+		    <div class="modal-container textalign-center">
+		        <div class="display-table width-100 height-100">
+		        	
+
+<div class="modal-close-icon modal-close">
+    <img src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/img/icon/close.svg">
+</div>
+<div class="display-tablecell verticalalign-middle padding-xl">
+    <div class="modal modal--s">
+        <div class="display-block position-relative marginbottom-l width-100">
+            <form role="search" method="get" class="search-form" action="https://lareleveetlapeste.fr/">
+                <input class="input-search" type="search" name="s" id="search-form-5b0d03f50afdc" placeholder="Recherche..." value="">
+                <button type="submit" class="search-submit" style="opacity:0;">RECHERCHER</button>
+            </form>
+        </div>
+        <div class="display-block position-relative width-100">
+            <span class="c-grey--d font--r fontsize-s breakpoint-m--fontsize-xs">Tapez votre recherche et appuyez sur Entrée pour valider</span>
+        </div>
+    </div>
+</div>
+  
+		        </div>
+		    </div>
+		</div>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+		<script type="text/javascript">
+		    // ==== newsletter subscription ====
+		    function submitNewsletter() {
+		        var successText ="<section class=\"marginbottom-xxl breakpoint-m--marginbottom-xl\"> <div class=\"wrapper--xs\"> <span class=\"display-block position-relative width-100 textalign-center c-black font--m fontsize-m lineheight-1 marginbottom-m\">Envie de s’informer ?</span> <span class=\"display-block position-relative width-100 textalign-center c-black font--l fontsize-m lineheight-s marginbottom-l\">Votre inscription a bien été prise en compte</span> </div> </section>";
+		        $.ajax({
+		            url: '/?na=s',
+		            method: 'POST',
+		            dataType: 'html',
+		            data: {
+		                nn: $('input[name=nn]').val(),
+		                ne: $('input[name=ne]').val(),
+		            }
+		        }).done(function(response) {
+		            var ajaxSubmit = "";
+		            response = response.replace("document.getElementById(\"form\").submit();", "$.ajax({url: '/', method: 'POST', dataType: 'html', data: {na: $('input[name=na]').val(), preview: $('input[preview=ne]').val(), nn: $('input[name=nn]').val(), ne: $('input[name=ne]').val(), nhr: $('input[name=nhr]').val(), ts: $('input[name=ts]').val(), } });");
+		            $('body').append("<div style='display:none'>"+response+"</div>");
+		            $('#newsletter').html(successText);
+		        });
+		    }
+		</script>
+		<script type="text/javascript">
+			window.paceOptions = {
+				ajax: false,
+				eventLag: false,
+				restartOnPushState: false,
+				restartOnRequestAfter: false
+			}
+		</script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
+		<script src="https://unpkg.com/medium-zoom@0/dist/medium-zoom.min.js"></script>
+		<script src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/js/animsition.min.js"></script>
+		<script src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/js/animation.min.js"></script>
+		<script src="https://unpkg.com/flickity@2.0.5/dist/flickity.pkgd.min.js"></script>
+		<script src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/js/magnific.min.js"></script>
+		<script src="https://lareleveetlapeste.fr/wp-content/themes/la-releve-2018/js/functions.js"></script>
+	</body>
+</html>

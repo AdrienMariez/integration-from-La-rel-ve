@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>gulp la relève et la peste</title>
+    <link rel="stylesheet" href="dist/css/main.css">
+    <link rel="icon" type="image/png" href="assets/img/favicon-32x32.png" sizes="32x32">
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+</head>
+
+<body>
+    <header class="headerBodyContainer">
+        <div class="headerBody">
+            <div class="imgHeaderContainer flexCenterItem">
+                <img src="assets/img/logo-header.png">
+            </div>
+            <h1 class="invisible">la relève et la peste</h1>
+            <div class="responsiveMenu flexNav">
+                <div class="navItem navItemText">
+                    <span id="toggle-menu" class="toggle-menu blackTextIBM menuFont">
+                        MENU
+                    </span>
+                </div>
+                <div class="navItemShopShoppingContainer flexNav">
+                    <div class="navItem navItemImgContainer navitemSearchContainer paddingImg" id="searchTrigger2">
+                        <img src="assets/img/search.png">
+                    </div>
+                    <div class="navItem navItemImgContainer paddingImg">
+                        <a href="https://lareleveetlapeste.fr/boutique/">
+                            <img src="assets/img/shop.png">
+                        </a>
+                    </div>
+                    <div class="navItem navItemImgContainer paddingImg">
+                        <a href="https://lareleveetlapeste.fr/panier/">
+                            <img src="assets/img/shopping-cart.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <nav class="navHeaderDesktop flexNav">
+                <div class="navItem navItemImg navitemSearchContainer paddingImg" id="searchTrigger">
+                    <img src="assets/img/search.png">
+                </div>
+                <div class="navItemTextContainer flexNav">
+                    <div class="navItem navItemText">
+                        <a class="linksNoStyle blackTextIBM" href="https://lareleveetlapeste.fr">
+                            ACCUEIL
+                        </a>
+                    </div>
+                    <div class="navItem navItemText">
+                        <a class="linksNoStyle blackTextIBM" href="https://lareleveetlapeste.fr/category/blog/">
+                            NOS ARTICLES
+                        </a>
+                    </div>
+                    <div class="navItem navItemText">
+                        <a class="linksNoStyle blackTextIBM" href="https://lareleveetlapeste.fr/notre-revue/">
+                            NOS REVUES
+                        </a>
+                        <ul>
+                            <li>
+                                <a href="https://lareleveetlapeste.fr/notre-revue/">
+                                    LIVRE-JOURNAL 1
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://lareleveetlapeste.fr/manifeste-numero-1/">
+                                    MANIFESTE 1
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="navItem navItemText">
+                        <a class="linksNoStyle blackTextIBM" href="https://lareleveetlapeste.fr/livre-journal-2/">
+                            LIVRE-JOURNAL n°2
+                        </a>
+                    </div>
+                    <div class="navItem navItemText">
+                        <a class="linksNoStyle blackTextIBM" href="https://lareleveetlapeste.fr/boutique/">
+                            BOUTIQUE
+                        </a>
+                    </div>
+                </div>
+                <div class="navItemShopShoppingContainer">
+                    <div class="navItem navItemImgContainer paddingImg">
+                        <a class="shop-bucket" href="https://lareleveetlapeste.fr/boutique/">
+                            <img src="assets/img/shop.png">
+                        </a>
+                    </div>
+                    <div class="navItem navItemImgContainer paddingImg">
+                        <a class="shop-bucket" href="https://lareleveetlapeste.fr/panier/">
+                            <img src="assets/img/shopping-cart.png">
+                        </a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+
+    <div  id="desktopStickyContainer" class="desktopStickyContainer invisible">
+        <nav class="navHeaderDesktopSticky flexNav">
+            <div class="navItemTextContainer flexNav">
+                <div>
+                    <img src="assets/img/logo-menu-scrolled.jpg" alt="">
+                </div>
+                <div class="navItem">
+                    <a class="blackTextIBM linksNoStyle" href="https://lareleveetlapeste.fr">
+                        ACCUEIL
+                    </a>
+                </div>
+                <div class="navItem">
+                    <a class="blackTextIBM linksNoStyle" href="https://lareleveetlapeste.fr/category/blog/">
+                        NOS ARTICLES
+                    </a>
+                </div>
+                <div class="navItem">
+                    <a class="blackTextIBM linksNoStyle" href="https://lareleveetlapeste.fr/notre-revue/">
+                        NOS REVUES
+                    </a>
+                    <ul class="navUl">
+                        <li class="navUlLi">
+                            <a href="https://lareleveetlapeste.fr/notre-revue/">
+                                LIVRE-JOURNAL 1
+                            </a>
+                        </li>
+                        <li class="navUlLi">
+                            <a href="https://lareleveetlapeste.fr/manifeste-numero-1/">
+                                MANIFESTE 1
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="navItem">
+                    <a class="blackTextIBM linksNoStyle" href="https://lareleveetlapeste.fr/livre-journal-2/">
+                        LIVRE-JOURNAL n°2
+                    </a>
+                </div>
+                <div class="navItem">
+                    <a class="blackTextIBM linksNoStyle" href="https://lareleveetlapeste.fr/boutique/">
+                        BOUTIQUE
+                    </a>
+                </div>
+            </div>
+            <div class="navItemShopShoppingContainer">
+                <div class="navItem navItemImgContainer paddingImg">
+                    <a href="https://lareleveetlapeste.fr/boutique/">
+                        <img src="assets/img/shop.png">
+                    </a>
+                </div>
+                <div class="navItem navItemImgContainer paddingImg">
+                    <a href="https://lareleveetlapeste.fr/panier/">
+                        <img src="assets/img/shopping-cart.png">
+                    </a>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <div id="responsiveStickyContainer" class="responsiveStickyContainer invisible">
+        <div class="stickyResponsiveMenu flexNav">
+            <div class="navItem navItemText">
+                <span id="toggle-menu2" class="toggle-menu blackTextIBM menuFont">
+                    MENU
+                </span>
+            </div>
+            <div>
+                <img src="assets/img/logo-menu-scrolled.jpg" alt="">
+            </div>
+            <div class="navItemShopShoppingContainer flexNav">
+                <div class="navItem navItemImgContainer navitemSearchContainer paddingImg" id="searchTrigger3">
+                    <img src="assets/img/search.png">
+                </div>
+                <div class="navItem navItemImgContainer paddingImg">
+                    <a href="https://lareleveetlapeste.fr/boutique/">
+                        <img src="assets/img/shop.png">
+                    </a>
+                </div>
+                <div class="navItem navItemImgContainer paddingImg">
+                    <a href="https://lareleveetlapeste.fr/panier/">
+                        <img src="assets/img/shopping-cart.png">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="nextPreviousContainer flexNav">
+        <div id="previousContainer" class="previousContainer invisible">
+            <a id="previousContainerA" class="linksNoStyle invisible" href="">Article précédent</a>
+        </div>
+        <div id="nextContainer" class="nextContainer invisible">
+            <a id="nextContainerA" class="linksNoStyle invisible" href="">Article suivant</a>
+        </div>
+    </div>
+
+    <article class="bodyArticleContainer">
+        <div class="bodyArticleImgs flexCenterItem">
+            <div class="backToArticles width100 flexCenterItem">
+                <a class="linksNoStyle blackTextLora" href="">Retour aux articles</a>
+            </div>
+            <img src="assets/img/image-couv-site-11118-2.jpg">
+        </div>
+        <div class="articlecontainer flexCenterItem width100">
+            <div class="bodyArticle flexCenterItem">
+                <section>
+                    <h2 class="flexCenterItem lineHeight32">Pollution des océans : Coca-Cola pollue l’équivalent d’une benne à ordure chaque minute</h2>
+                    <div class="authorArticle flexColumnDisplay flexCenterItem">
+                        <div class="flexCenterItem">
+                            <span class="txt1">
+                                29 avril 2018 / par
+                            </span>
+                            <span class="txt2">
+                                La Relève et La Peste
+                            </span>
+                        </div>
+                        <div class="flexCenterItem">
+                            <a href="">
+                                <img src="assets/img/facebook.png" alt="">
+                            </a>
+                            <a href="">
+                                <img src="assets/img/twitter.png" alt="">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="width100 sectionArticleSubtitle">Lundi 10 avril dernier, les employés du siège européen de Coca-Cola, à Londres, ont vu l’entrée de leurs
+                        bureaux bloquée par une sculpture monumentale, déposée là par Greenpeace UK, en signe de protestation
+                        contre la politique paresseuse et opaque de la multinationale en matière de traitement du plastique.
+                        Un geste qui vise aussi plus largement à informer l’opinion publique de l’urgence écologique que
+                        représente la pollution plastique des océans.
+                    </div>
+                    <div class="width100 sectionArticleSubtitle">
+                        Un argument de poids
+                    </div>
+                    <div class="width100 sectionArticleText">
+                        « Coca-Cola cache l’étendue de son empreinte plastique et refuse de prendre des mesures significatives pour empêcher la pollution
+                        de nos océans par ses produits » : c’est sur ce préambule que débute un rapport publié par Greenpeace
+                        la semaine dernière, accompagné d’une action d’éclat sur le parvis du siège social de la société,
+                        à Londres : le message est assené de tout le poids (2,5 tonnes) d’une statue de l’artiste Jason deCaires
+                        Taylor, qui représente une famille de vacanciers sur une plage, indifférente aux oiseaux marins régurgitant
+                        avec peine du plastique à leurs pieds.
+                    </div>
+                    <div class="width100 sectionBottomPadding">
+                        <img class="width100" src="assets/img/Carma_Photo_Product_11_Featured-x-up_800x654_LIGHT.jpg" alt="">
+                    </div>
+                    <p class="sectionArticleSubtitle">
+                        L’empreinte coupable de Coca-Cola
+                    </p>
+                    <p class="sectionArticleText">
+                        Dans son rapport, Greenpeace mélange les données publiées par Coca-Cola et des estimations de son cru pour les compléter.
+                        L’organisme rappelle que Coca-Cola vend plus 1,9 milliards de doses de soda par jour à travers le
+                        monde, ce qui élève sa production annuelle de bouteilles en plastique à environ 110 milliards de
+                        bouteilles. Comme l’a d’ailleurs reconnu la multinationale en 2010 dans son rapport écologique, ces
+                        produits «
+                        <i>font partie des déchets que l’on peut trouver répandus à tort sur les littoraux à travers le monde</i>
+                        » ; une masse de plastique qui pollue massivement les océans au rythme de l’équivalent d’une benne à ordure par minute.
+                    </p>
+                    <p class="sectionArticleText">
+                        Ces déchets ne sont pas seulement une gêne esthétique pour les amateurs de
+                        <i>farniente</i> l’été. Les plus gros morceaux sont ingérés par les requins ou les oiseaux marins, qui,
+                        incapables de les digérer, les régurgitent – s’ils n’en meurent pas avant – sous forme de microplastiques
+                        qui vont ensuite mettre en danger toute la chaîne alimentaire océane.
+                    </p>
+                    <p class="sectionArticleQuote">
+                        « Coca-Cola cache l’étendue de son empreinte plastique et refuse de prendre des mesures significatives pour empêcher la pollution
+                        de nos océans par ses produits »
+                    </p>
+                    <p class="sectionArticleText">
+                        S’ajoute à cette pollution des océans la pollution associée à la fabrication des bouteilles neuves, issue d’hydrocarbures
+                        polluants. En effet, le rapport montre que Coca-Cola est loin d’avoir atteint son objectif de 2015
+                        de 25% des bouteilles fabriquées à partir de plastique recyclé (rPET), avec à peine 7% de ses produits
+                        emballés dans un tel matériau. La multinationale, ajoute le rapport, a même reconnu que cet objectif
+                        était devenu un «
+                        <i>challenge</i> » avec la diminution récente du coût du pétrole, matière première du plastique vierge.
+                        Pourtant, le plastique utilisé pour ces bouteilles est tout à fait recyclable et certains acteurs
+                        du secteur, comme PepsiCo sur la ligne 7Up, ont d’ores et déjà atteint le 100 % recyclé.
+                    </p>
+                    <p class="sectionArticleSubtitle">
+                        Trop de bouteilles à usage unique
+                    </p>
+                    <p class="sectionArticleText">
+                        Il apparaît que le cœur du problème n’est pas le matériau des bouteilles, mais bien l’usage qu’il en est fait. Là où Coca-Cola
+                        fait beaucoup d’effort pour réduire la quantité de plastique utilisée pour fabriquer une bouteille,
+                        Greenpeace appelle à un passage massif au packaging réutilisable.
+                    </p>
+                    <p>
+                        <p class="sectionArticleSubtitle">
+                            Le principe est simple : au lieu de recycler une bouteille après une seule utilisation, l’entreprise peut encourager les
+                            consommateurs à rapporter la bouteille vide sur le point d’achat, où elle est récupérée contre
+                            une petite caution, nettoyée, remplie à nouveau et renvoyée sur les étalages du magasin. Ironie
+                            du sort, Coca-Cola était un pionner de ce système avec sa mythique bouteille de verre au début
+                            du siècle, avec un taux de réutilisation proche de 96% à la fin des années 1940.
+                        </p>
+                        <p class="sectionArticleText">
+                            Aujourd’hui, le constat n’est plus le même : depuis plusieurs années, la proportion de contenants réutilisables dans les
+                            ventes de Coca-Cola ne fait que diminuer ; de plus d’un tiers (33%) en 2008, celle-ci est passée
+                            à moins d’un quart (25%) en 2015. Pourtant, les systèmes de collecte efficaces sont aujourd’hui
+                            largement répandus, notamment en Allemagne, en Suède et au Danemark. Dans un tel système, une
+                            bouteille de verre peut être réutilisée 50 fois avant d’être recyclée, 15 fois pour une bouteille
+                            de plastique.
+                        </p>
+                    </p>
+                </section>
+                <img src="assets/img/soft-drinks-bottles-pollution.jpg" alt="">
+                <section>
+                    <p class="sectionArticleSubtitle">
+                        Résultats opaques et lobbying
+                    </p>
+                    <p class="sectionArticleText">
+                        Au lieu d’adhérer à ces modèles écologiques, Coca-Cola s’y oppose en secret, refuse de publier des statistiques précises
+                        sur son empreinte plastique et se cache derrière de nombreux efforts de « greenwashing ».
+                    </p>
+                    <p class="sectionArticleText">
+                        Dans ses pages illustrées d’oiseaux agonisants, le rapport accuse : « des courriels internes divulgués au printemps 2016
+                        révèlent l’intention de Coca-Cola de résister à certains éléments du programme européen sur l’économie
+                        circulaire ». Ces données interceptées par Greenpeace indiquent les efforts déployés par la multinationale
+                        pour combattre la mise en place de système de collecte, en faisant une des cibles principales des
+                        900 000€ qu’elle investit annuellement en lobbying au niveau européen.
+                    </p>
+                    <p class="sectionArticleText">
+                        Le plus effarant de cette affaire reste peut-être l’absurdité d’une telle démarche : certes, la mise en place généralisée
+                        de systèmes de collecte demanderait une adaptation de la part de Coca-Cola (et donc des coûts), mais
+                        le rapport de Greenpeace souligne qu’une telle adaptation s’est déjà faite avec succès dans plusieurs
+                        pays, sans menacer la santé de l’entreprise. Au lieu de tendre vers une solution logique et responsable,
+                        Coca-Cola se cache derrière un marketing « vert » bruyant et peu efficace, comme l’initiative «
+                        <i>Keep America Beautiful</i> », une organisation qui insiste sur le rôle du consommateur dans la pollution
+                        en éclipsant celui du fabricant.
+                    </p>
+                    <p class="sectionArticleSubtitle">
+                        En tant qu’acteur majeur du secteur, Coca-Cola devrait prendre la tête de la transformation écologique des modes de consommation,
+                        en favorisant un double mouvement : le passage au 100 % recyclé dans les matériaux d’emballage, mais
+                        aussi, plus important encore, la sensibilisation du public à la réutilisation et à la réduction maximale
+                        des emballages – car une bouteille, qu’elle soit en plastique recyclé, réutilisé ou bioplastique,
+                        reste une menace pour la vie des océans.
+                    </p>
+                    <p class="sectionArticleSubtitle linksNoStyle">
+                        <b>Sources : </b>
+                        <a class="sectionArticleSubtitle linksNoStyle" href="http://www.consoglobe.com/dechets-plastiques-de-coca-cola-le-bilan-environnemental-est-lourd-cg">
+                            Consobglobe
+                        </a>
+                        <b>
+                            /
+                        </b>
+                        <a class="sectionArticleSubtitle linksNoStyle" href="http://www.greenpeace.org.uk/sites/files/gpuk/the-case-against-coca-cola.pdf">
+                            Greenpeace
+                        </a>
+                    </p>
+                </section>
+                <img src="assets/img/image-15672.jpg" alt="">
+
+                <div class="flexColumnDisplay">
+                    <div class="bottomArticle flexColumnDisplay flexCenterItem">
+                        <div class="sectionArticleSubtitle">
+                            Pour commander notre nouveau Livre-Journal, cliquez sur l’image !
+                        </div>
+                    </div>
+                    <div class="authorArticle flexColumnDisplay flexCenterItem">
+                        <div class="flexCenterItem">
+                            <span class="txt1">
+                                29 avril 2018 / par
+                            </span>
+                            <span class="txt2">
+                                La Relève et La Peste
+                            </span>
+                        </div>
+                        <div class="flexCenterItem">
+                            Partager
+                        </div>
+                        <div class="flexCenterItem">
+                            <a href="">
+                                <img src="assets/img/facebook.png" alt="">
+                            </a>
+                            <a href="">
+                                <img src="assets/img/twitter.png" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+
+    <div class="backToArticles width100 flexCenterItem">
+        <a class="linksNoStyle blackTextLora" href="">Retour aux articles</a>
+    </div>
+    <div class="topArticleListContainer flexCenterItem">
+        <div class="topArticleList flexCenterItem">
+            <div class="flexCenterItem flexColumnDisplay width100">
+                <div class="topArticleList1 ListText flexCenterItem width100"></div>
+                <div class="ListText flexCenterItem width100">xxx</div>
+            </div>
+            <div class="topArticleList2 flexCenterItem width100">
+            </div>
+            <div class="topArticleList3 flexCenterItem width100">
+            </div>
+        </div>
+    </div>
+</body>
+<script src="dist/js/app.js"></script>
+</html>

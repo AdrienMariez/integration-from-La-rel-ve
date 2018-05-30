@@ -1,0 +1,432 @@
+$black: black;
+$darkGrey: rgb(48, 48, 48);
+$mediumGrey: rgb(172, 172, 172);
+$lightGrey: rgb(248, 248, 248);
+$lightGreyBorder: rgb(238, 238, 238);
+$white: white;
+$sectionBottomPadding: 55px;
+$lineHeight32: 32px;
+$textIBM: 'IBM Plex Sans', sans-serif;
+
+//utility classes :
+.width100{
+    width:100%;
+}
+.linksNoStyle{
+    text-decoration: none;
+}
+.blackTextIBM{
+    color: $black;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.darkGreyTextIBM{
+    color: $darkGrey;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.blackTextLora{
+    color: $black;
+    font-family: 'Lora', serif;
+}
+.menuFont{
+    font-size: 12px;
+}
+.flexCenterItem{
+    display: flex;
+    justify-content: center;
+}
+.flexColumnDisplay{  
+display: flex;
+flex-direction: column;
+}
+.flexNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.paddingImg{
+    padding:5px;
+}
+.sectionBottomPadding{
+    padding-bottom:55px;
+}
+.lineHeight32{
+    line-height: 32px;
+}
+.invisible{
+    display: none;
+}
+//end utility classes
+
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+// main header with responsive nav && desktop nav
+.headerBodyContainer{
+    margin-bottom: 20px;
+    .headerBody{
+        // fixed mesurements, should fix
+        margin-left: 65px;
+        margin-right: 65px;
+        .imgHeaderContainer{
+            padding-top: 20px;
+        }
+        .responsiveMenu{
+            .toggle-menu{
+                cursor: pointer;
+            }
+        }
+        //bigger than 1000px width
+        @media (min-width: 1000px) {
+            .responsiveMenu{
+                display: none;
+            }
+        }
+        .navHeaderDesktop{
+            padding-top: 20px;
+            .navItem{
+                padding:5px;
+            }
+            .navItemText{
+                a{
+                    font-size: 13px;
+                }
+            }
+            .navItemTextContainer{   
+                width: 60%;
+            }
+            ul{
+                display: none;
+            }
+            .navItemShopShoppingContainer{   
+                display: flex;
+                flex-direction: row; 
+            }
+        }
+        //smaller than 1000px width
+        @media (max-width: 1000px) {
+            .navHeaderDesktop{
+                display: none;
+            }
+        }
+        .navitemSearchContainer>img{
+            height: 16px;
+            width: 15px;
+        }
+    }
+}
+// main header with responsive nav && desktop nav
+
+// desktopsticky nav
+    .desktopStickyContainer{
+        position: -webkit-fixed;
+        position: fixed;
+        top: 0px;
+        background-color: $white;
+        width: 100vw;
+        z-index: 30;
+        -webkit-animation: navMove 1s 1; /* Safari 4.0 - 8.0 */
+        animation: navMove 1s 1;
+        .navHeaderDesktopSticky{
+            // fixed mesurements, should fix
+            margin-left: 65px;
+            margin-right: 65px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            
+            .navItemTextContainer{
+                width:700px;
+                .navItem{
+                    padding:4px;
+                }
+                .navItem>a{
+                    font-size: 10px;
+                }
+            }
+            .navitemSearchContainer>img{
+                height: 16px;
+                width: 15px;
+            }
+            .navItemTextContainer{   
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+            }
+            div>.navUl{
+                display: none;
+            }
+            .navItemShopShoppingContainer{   
+                display: flex;
+                flex-direction: row; 
+                .navItem{
+                    padding: 5px;
+                }
+            }
+        }
+        @media (max-width: 1000px) {
+            .navHeaderDesktopSticky{
+                margin-left: 25px;
+                margin-right: 25px;
+            }
+        }
+    }
+    //smaller than 1000px width
+    @media (max-width: 760px) {
+        .desktopStickyContainer{
+            display: none;
+        }
+    }
+//end desktop sticky nav
+
+// responsive sticky nav
+    .responsiveStickyContainer{
+        position: -webkit-fixed;
+        position: fixed;
+        top: 0px;
+        background-color: $white;
+        width: 100vw;
+        z-index: 30;
+        -webkit-animation: navMove 1s 1; /* Safari 4.0 - 8.0 */
+        animation: navMove 1s 1;
+        .stickyResponsiveMenu{
+            // fixed mesurements, should fix
+            margin-left: 65px;
+            margin-right: 65px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            
+            .navItemTextContainer{
+                width:700px;
+                .navItem{
+                    padding:4px;
+                }
+                .navItem>a{
+                    font-size: 10px;
+                }
+            }
+            .navitemSearchContainer>img{
+                height: 16px;
+                width: 15px;
+            }
+            .navItemTextContainer{   
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+            }
+            div>.navUl{
+                display: none;
+            }
+            .navItemShopShoppingContainer{   
+                display: flex;
+                flex-direction: row; 
+            }
+        }
+        @media (max-width: 1000px) {
+            .navHeaderDesktopSticky{
+                margin-left: 25px;
+                margin-right: 25px;
+            }
+        }
+    }
+    //smaller than 1000px width
+    @media (min-width: 760px) {
+        .responsiveStickyContainer{
+            display: none;
+        }
+    }
+//end responsive sticky nav
+
+// Next Previous nav
+.nextPreviousContainer{
+    position: -webkit-fixed;
+    position: fixed;
+    top: 30vh;
+    width: 100%;
+    height:50vh;
+    z-index: 30;
+    div{
+        width: 8%;
+        height:40vh;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        a{
+            margin-top: auto;
+            margin-bottom: auto;
+            color:$darkGrey;
+            font-family: $textIBM;
+        }
+    }
+    .previousContainer{
+        transform: rotate(90deg);
+        -webkit-animation: prevMove 1s 1; /* Safari 4.0 - 8.0 */
+        animation: prevMove 1s 1;
+    }
+    .nextContainer{
+        transform: rotate(270deg);
+        -webkit-animation: nextMove 1s 1; /* Safari 4.0 - 8.0 */
+        animation: nextMove 1s 1;
+    }
+}
+//smaller than 1000px width
+@media (max-width: 760px) {
+    .nextPreviousContainer{
+        display: none;
+    }
+}
+//end Next Previous nav
+
+//main article
+article.bodyArticleContainer{
+    background-color: $lightGrey;
+    border-top-color: $lightGreyBorder;
+    border-top-width: 1px;
+    border-top-style: solid;
+    flex-direction: row;
+    flex-wrap: wrap;
+    .bodyArticleImgs{
+        flex-direction: row;
+        flex-wrap: wrap;
+        img{
+            width: 90%;
+        }
+    }
+    .articlecontainer{
+        .bodyArticle{
+            flex-direction: row;
+            flex-wrap: wrap;
+            margin-top:-70px;
+            z-index: 10;
+            width: 90%;
+            section{
+                width: 60%;
+                z-index: 10;
+                background-color: $lightGrey;
+                padding: 22px 40px 30px 40px;
+                h2{
+                    font-size: 40px;
+
+                }
+            }
+
+        }
+    }
+}
+
+.backToArticles{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    a{
+        font-size: 18px;
+    }
+}
+
+.sectionArticleText{
+    padding-bottom: $sectionBottomPadding;
+    line-height: $lineHeight32;
+    font-family: $textIBM;
+    font-size: 20px;
+    font-weight: 100;
+}
+.sectionArticleSubtitle{
+    padding-bottom: $sectionBottomPadding;
+    line-height: $lineHeight32;
+    font-family: $textIBM;
+    color: $darkGrey;
+    font-size: 20px;
+    font-weight: 700;
+}
+.sectionArticleBold{
+    padding-bottom: $sectionBottomPadding;
+    line-height: $lineHeight32;
+    font-family: $textIBM;
+    font-size: 20px;
+    font-weight: 700;
+}
+.sectionArticleQuote{
+    padding-bottom: $sectionBottomPadding;
+    line-height: $lineHeight32;
+    font-family: $textIBM;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+    color : $mediumGrey;
+}
+
+.bottomArticle{
+    padding-top: 40px;
+    padding-bottom: 75px;
+}
+.authorArticle{
+    font-family: 'Lora', serif;
+    div.flexCenterItem{
+        padding-bottom: 35px;
+        font-size: 18px;
+        .txt1{
+            color: $mediumGrey;
+            padding-right: 5px;
+        }
+        .txt2{
+            color: $darkGrey;
+        }
+        a{
+            padding-right: 20px;
+        }
+    }
+}
+
+.topArticleList{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    .flexCenterItem{
+        width: 25vw;
+        height: 20vw;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .topArticleList1{
+        background-image: url("../../assets/img/index.jpeg");
+    }
+    .topArticleList2{
+        background-image: url("../../assets/img/index2.jpeg");
+    }
+    .topArticleList3{
+        background-image: url("../../assets/img/Carma_Photo_Product_11_Featured-x-up_800x654_LIGHT.jpg");
+    }
+    .ListText{
+        
+    }
+}
+
+//smaller than 1000px width
+    @media (min-width: 1000px) {
+        .topArticleList{
+            flex-direction: row;
+        }
+    }
+//bigger than 1000px width
+    @media (max-width: 1000px) {
+        .topArticleList{
+            flex-direction: column;
+            align-content: center;
+            align-items: center;
+        }
+    }
+
+//end main article
+
+@keyframes navMove {
+    from {top: -100px;}
+    to {top: 0px;}
+}
+@keyframes prevMove {
+    from {top: -100px;}
+    to {top: 0px;}
+}
+@keyframes nextMove {
+    from {top: -100px;}
+    to {top: 0px;}
+}
